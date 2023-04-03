@@ -1,4 +1,4 @@
-# FunctionalAndOop
+# FunctionalDanOop
 Contoh Output dari functional programming dan Object oriented programming
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/95126142/229566648-ed593405-432f-47b1-8101-751008002e50.png">
