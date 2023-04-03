@@ -5,7 +5,8 @@ Contoh Output dari functional programming dan Objecct oriented programming
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/95126142/229568353-1fc95ee7-b7a2-4c04-ada8-bb3c83f7fa7f.png">
 
-Source Code.</a><br><br>
+- Lihat <a href="https://github.com/totoro-07/FunctionalAndOop/blob/main/Fp.py">Functional programming.</a><br><br>
+- Lihat <a href="https://github.com/totoro-07/FunctionalAndOop/blob/main/Oop.py">Object oriented programming.</a><br><br>
 
 # Funtional programming 
 Pemrograman fungsional (FP) adalah tentang bagaimana cara meneruskan data dari satu fungsi ke fungsi lainnya untuk mendapatkan hasil yang dikehendaki. Dalam FP, fungsi diperlakukan sebagai data, artinya Anda dapat menggunakannya sebagai parameter, mengembalikannya, membangun fungsi dari fungsi lain, dan membangun fungsi khusus. 
