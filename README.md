@@ -19,14 +19,20 @@ Kekurangan:
 Object Oriented Programming (OOP) adalah paradigma atau teknik pemrograman di mana semua hal dalam program dimodelkan seperti objek dalam dunia nyata. Objek di dunia nyata memiliki ciri atau attribut dan juga aksi atau kelakuan (behaviour). Dalam OOP, program dibangun dari objek yang saling berinteraksi satu sama lain
 
 Kelebihan dari OOP adalah:
--Reusable, yakni kemungkinan untuk dapat memakai berbagai class yang telah dibuat sebelumnya ke dalam project lain yang sejenis1\.
+-Reusable, yakni kemungkinan untuk dapat memakai berbagai class yang telah dibuat sebelumnya ke dalam project lain yang sejenis.
+
 -Maintenance program lebih mudah.
+
 -Program OOP yang komprehensif melibatkan banyak konsep, seperti abstraction, inheritance dan polymorphism.
 
 kekurangan dari OOP adalah:
+
 -Lebih kompleks untuk dipelajari.
+
 -Ukuran Program OOP lebih besar dibandingkan dengan program POP.
+
 -Runtime program OOP lebih lambat dari pada POP karena ukurannya lebih besar.
+
 -Tidak semua masalah program diselesaikan dengan OOP. Beberapa solusi lebih efisien menggunakan POP atau programming style yang lain
 
 Disusun oleh <a href="https://github.com/totoro-07"> Ahmad Radesta
