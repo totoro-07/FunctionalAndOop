@@ -7,18 +7,25 @@ Pemrograman fungsional (FP) adalah tentang bagaimana cara meneruskan data dari s
 Dalam pemrograman fungsional, fungsi dianggap sebagai nilai yang dapat diteruskan sebagai argumen ke fungsi lainnya atau dikembalikan sebagai hasil dari fungsi lainnya. Hal ini memungkinkan penggunaan fungsi sebagai blok bangunan dasar untuk membuat program yang lebih besar.
 
 Kelebihan:
+
 -Membuat program menjadi lebih modular yang artinya perangkat lunak dapat lebih mudah untuk ditambah atau dikurangi fiturnya.
+
 -Membantu proses debug menjadi lebih cepat karena dapat ditrack berdasarkan fungsi yang mengalami galat.
+
 -Memiliki kode yang lebih bersih dan mudah dibaca karena tidak ada efek samping.
 
 Kekurangan:
+
 -Tidak cocok untuk pemrograman yang membutuhkan perubahan status program secara terus-menerus.
+
 -Tidak cocok untuk pemrograman yang membutuhkan penggunaan memori yang besar.
+
 # Object Oriented Programming(OOP)
 
 Object Oriented Programming (OOP) adalah paradigma atau teknik pemrograman di mana semua hal dalam program dimodelkan seperti objek dalam dunia nyata. Objek di dunia nyata memiliki ciri atau attribut dan juga aksi atau kelakuan (behaviour). Dalam OOP, program dibangun dari objek yang saling berinteraksi satu sama lain
 
 Kelebihan dari OOP adalah:
+
 -Reusable, yakni kemungkinan untuk dapat memakai berbagai class yang telah dibuat sebelumnya ke dalam project lain yang sejenis.
 
 -Maintenance program lebih mudah.
